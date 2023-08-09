@@ -140,13 +140,14 @@ echo apply_filters(
 
 --- You're done, unless you want the optional code for pricing.
 --- Optional code for pricing; Adds "Retails from" in front of the price. As you need to 
- update the price mannually, it may differ from Amazon.
+ update the price mannually, it may differ from Amazon's.
  
 
 --- Go to the file templates/single-product/price.php
 
 --- Find the code
 
+?>
 <p class="<?php echo esc_attr( apply_filters( 'woocommerce_product_price_class', 'price' ) ); ?>"><?php echo $product->get_price_html(); ?></p>
 
 --- Replace it with
