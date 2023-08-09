@@ -11,7 +11,7 @@
  specific product.
 
  This is not a module, it's simply a few lines of code that you can implement. Simply 
- replace the code below as instructed.
+ follow the guide in Buy on Amazon module.txt
  
  I hereby grant you right to edit, sell, sublience and do whatever you want with this
  code. No credit is needed nor wanted.
